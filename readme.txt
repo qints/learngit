@@ -4,5 +4,5 @@ git is free sofeware distributed under the GPL
 why ?
 dev branch edit...
 dev branch edit tiwce...
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
 
