@@ -1,2 +1,2 @@
 # learngit
-the source that to learn git vcs
+the source that to learn git vcs.
