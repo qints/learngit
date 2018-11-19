@@ -1,5 +1,5 @@
 # learngit
 
-<img src="https://maven-badges.herokuapp.com/maven-central/com.xuxueli/xxl-job/badge.svg" >
+<img src="https://img.shields.io/cocoapods/dt/AFNetworking.svg" >
 
 the source that to learn git vcs.
